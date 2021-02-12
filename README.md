@@ -79,11 +79,6 @@ Author @Paybas, @Sajaki
 3.0.6 (28-2-2016)
 - updated for phpbb 3.1.7
 
-3.0.5 (28-2-2016)
-- updated for phpbb 3.1.6
-- added theme images for pbWoW (only the Core Theme)
-- fixed placement of avatar
-
 ## Use
 - Copy pbwow3 folder to styles
 - go to ACP -> Customise -> Install Styles and click the Install link. 
